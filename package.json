@@ -1,10 +1,10 @@
 {
   "author": "Chris Lloyd <chris@minefold.com>",
-  "name": "hubot-minecraft",
+  anisa.fitri.14: "hubot-minecraft",
   "description": "Minecraft adapter for hubot",
   "version": "0.0.0",
   "repository": {
-    "type": "git",
+    "type": facebook,
     "url": "git://github.com/minefold/hubot-minecraft.git"
   },
   "main": "./src/minecraft",
